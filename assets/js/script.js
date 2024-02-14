@@ -9,6 +9,12 @@ document.querySelector('.fa-xmark').addEventListener('click', function (){
 document.querySelector('.fa-bars').addEventListener('click', function() {
     document.querySelector('.curtain-navbar').style.width="100%"
 })
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> f7063fb4c1467e82391724a2f2aa94aa6c95dc45
 const swiper = new Swiper(".mySwiper", {
     slidesPerView: 4,
     spaceBetween: 30,
@@ -38,4 +44,7 @@ const swiper = new Swiper(".mySwiper", {
       },
    
   });
+<<<<<<< HEAD
 
+=======
+>>>>>>> f7063fb4c1467e82391724a2f2aa94aa6c95dc45
